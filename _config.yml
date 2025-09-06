@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "史*其"
-  pronouns         : "he" # example: "she/her"  
+  pronouns         : # "he" # example: "she/her"  
   bio              : "本蒟蒻出生于2014-8-15，坐标CQ，希望多多指导"
   location         : "重庆"
   employer         : "cqbz"
